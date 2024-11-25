@@ -15,3 +15,4 @@ examen trimestral nov 24
 *He creado una rama secundaria y me he cambiado a ella:
 - git switch -c "NombreRama"
 
+-Actualización del README en la rama secundaria
